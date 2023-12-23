@@ -20,7 +20,7 @@ int binarysearch(int arr[],int n,int key){
 }
  
 int main(){
-    /*NOTE- Binary Search is always applied on mentoning functions 
+    /*NOTE- Binary Search is always applied on montoning functions 
     (i.e ascending OR descending arrays)*/
     int n;
     cout<<"Enter size of your Array :";cin>>n;
